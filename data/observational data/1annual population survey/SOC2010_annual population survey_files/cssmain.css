@@ -1,0 +1,349 @@
+.homepage_content
+{
+	margin-right: 5px;
+	width: 389px;
+}
+.homepage_miscinfo
+{
+	width: 157px;
+}
+A
+{
+    COLOR: #0000BB
+}
+A:hover
+{
+    COLOR: #cc3300;
+    TEXT-DECORATION: underline
+}
+A.linkbody:hover
+{
+    COLOR: #cc3300;
+    TEXT-DECORATION: underline
+}
+A.linkbodyb:hover
+{
+    COLOR: #cc3300
+}
+A.linkmenu:hover
+{
+    FONT-WEIGHT: normal;
+    COLOR: #990000;
+}
+A.linktiny:hover
+{
+    COLOR: #cc3300;
+    TEXT-DECORATION: underline
+}
+BODY
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, sans-serif, Helvetica
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #333366;
+    FONT-FAMILY: Verdana, sans-serif, Helvetica
+}
+.box{
+		border:1px solid #CCCCFF;
+		margin-bottom:0.3em;
+}
+h2.boxtopheading
+{
+	font-size: 105%;
+	background-color:#BDD0F2;
+	border-bottom:1px solid #000080;
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #333366;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+H3
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: #333366;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+TH
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+TD
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+TR
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+
+TD.tinytext
+{
+    FONT-SIZE: 7pt;
+    FONT-FAMILY: Verdana, sans-serif, Helvetica
+}
+.headpage
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    COLOR: #333366;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+.headtext
+{
+    FONT-WEIGHT: bold;
+    COLOR: #333366
+}
+.breadcrumbs
+{
+	margin-left: 4px;
+	margin-bottom: 0px;
+	margin-right: 3px;
+	padding-top: 3px;
+	padding-left: 10px;
+	text-align: left;
+	height:18px;
+	background:#E8E8FF
+}
+.linkbody
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #0000BB;
+    TEXT-DECORATION: none
+}
+.linkmenu
+{
+    FONT-WEIGHT: normal;
+    COLOR: #0000BB;
+    TEXT-DECORATION: none
+}
+.linktiny
+{
+    FONT-SIZE: 8pt;
+    COLOR: #0000BB;
+    TEXT-DECORATION: underline
+}
+.small
+{
+    FONT-SIZE: 8pt
+}
+.table-even
+{
+    BACKGROUND-COLOR: #ffffff
+}
+.table-head
+{
+	font-size: 8pt;
+	font-weight: bold;
+	color: #000066;
+    BACKGROUND-COLOR: #BDD0F2
+}
+.table-odd
+{
+    BACKGROUND-COLOR: #ffffff
+}
+.linkbodyb
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, helvetica, sans-serif
+}
+SELECT
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+li
+{
+	padding-bottom: 5px;
+}
+ul.arrowedlist
+{
+	list-style-type: disc;
+	list-style-image: url(/images/arrow_r.gif);
+	list-style-position: outside;
+	margin-left:20px; 
+	margin-right:0px; 
+}
+.toppage
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 13pt;
+    COLOR: black;
+    BACKGROUND-COLOR: #CCCCFF
+}
+.smallheading
+{
+	font-family: Verdana;
+    FONT-WEIGHT: normal;
+    font-style: normal;
+    FONT-SIZE: 10pt;
+    COLOR: #222266;
+}
+.impactheading
+{
+	font-family: Verdana;
+    FONT-WEIGHT: bold;
+    font-style: normal;
+    FONT-SIZE: 10pt;
+    COLOR: #222266;
+}
+.highlight
+{
+    COLOR: darkred;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, sans-serif, Helvetica;
+    BACKGROUND-COLOR: yellow
+}
+.linkblue
+{
+    FONT-WEIGHT: bold;
+    COLOR: steelblue;
+    TEXT-DECORATION: underline
+}
+A.linkblue:hover
+{
+    COLOR: #cc3300
+}
+P
+{
+    COLOR: black
+}
+UL
+{
+    MARGIN-TOP: 0px;
+    MARGIN-BOTTOM: 0px;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px
+}
+
+.cn_head
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000066;
+	text-decoration: none;
+	background-color: #BDD0F2;
+	text-align: left;
+}
+
+.cn_cont
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-weight: normal;
+	text-decoration: none
+}
+
+.cn_boxborder { background-color: #CCCCFF }
+.boxline2 { background-color: #9999FF }
+.boxline1 { background-color: #000066 }
+.boxedtab
+{
+	border-style: solid;
+	border-color: #CCCCFF;
+	border-width: 1;
+	padding-left: 6;
+	padding-right: 6;
+}
+.marginless
+{
+	border-width: 0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0
+}
+.marginsmall
+{
+	border-width: 3;
+	margin-top: 3;
+	margin-left: 3;
+	margin-right: 3;
+	margin-bottom: 3
+}
+.statusText
+{
+	font-weight: bold;
+	color: #ff0000;
+	background-color: #FFFFFF;
+}
+TEXTAREA
+{
+	FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, helvetica, sans-serif
+}
+.question
+{
+ font-weight: bold;
+ color: #000066;
+ border-top: 2px solid #999999;
+ padding-top: 6px;
+}
+.loading_banner
+{
+	position:absolute;
+	left:120px;
+	top:100px;
+	font-size:18pt;
+	color:#BDD0F2;
+}
+
+/*
+Census Table Styles
+*/
+.census_tablestart
+{
+	border-width: 0px;
+	padding: 0px;
+	background-color: #CCCCCC;
+	margin: 3px;
+}
+.census_tablename
+{
+	font-weight: bold;
+	font-size: 10pt;
+	text-align: center;
+	height: 50px;
+	background-color: #BDD0F2;
+}
+.census_coldesc
+{
+	font-weight: bold;
+	text-align: center;
+	background-color: #BDD0F2;	
+}
+.census_rowdesc
+{
+	font-weight: bold;
+	text-align: left;
+	background-color: #BDD0F2
+}
+.census_rowdesc_center
+{
+	font-weight: bold;
+	text-align: center;
+	background-color: #BDD0F2
+}
+.census_footer
+{
+	font-style: italic;
+}
