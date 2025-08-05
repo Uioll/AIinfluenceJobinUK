@@ -1,3 +1,6 @@
 *.shp filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.db filter=lfs diff=lfs merge=lfs -text
+clusterOutliers_Anselin[[:space:]]L[[:space:]]moran's/Local[[:space:]]Moran's[[:space:]]I.shp filter=lfs diff=lfs merge=lfs -text
+data/spatial[[:space:]]data/LAD_MAY_2025_UK_BFC_2360005762104150824.zip filter=lfs diff=lfs merge=lfs -text
+nomis_data.db filter=lfs diff=lfs merge=lfs -text
